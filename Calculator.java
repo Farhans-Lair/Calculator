@@ -3,7 +3,7 @@ import java.awt.event.*;
 public class Calculator implements ActionListener
 {
 	int c,n;
-    String s1, s2, s3, s4,s5; 
+        String s1, s2, s3, s4,s5; 
 	Frame f;
 	Button b0, b1, b2, b3, b4, b5, b6, b7, b8, b9, badd, bsub, bmul, bdiv, beq, bclr;
 	Panel p;
